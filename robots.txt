@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://droidchip.github.io/sitemapx.xml
